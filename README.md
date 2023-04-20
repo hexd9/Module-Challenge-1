@@ -26,8 +26,7 @@ To use this webpage you can direct your attention to the navigation bar where yo
 ## Credits
 
 Collaborators:
-Learning Assist: Oscar
-Ruben Ruiz
+Learning Assist: Oscar, Ruben Ruiz
 
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
 https://github.com/microsoft/vscode
