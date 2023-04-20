@@ -19,6 +19,8 @@ n/a
 
 To use this webpage you can direct your attention to the navigation bar where you can  click on any of the subjects and be directed to the description of each subject. Website has been updated for search engine optimization and accessibility. 
 
+https://hexd9.github.io/Module-Challenge-1/
+
 ![alt text](assets/images/_index.html.png)
 
 ![alt text](assets/images/Project_Image.png)
@@ -74,11 +76,12 @@ Rails
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+https://img.shields.io/badge/module1version-hexd9version-green
 
 ## Features
 
-Project includes a span element to highlight the title of the webpage. <h1><span class="seo">Horiseon</span></h1>
+Project includes a span element to highlight the title of the webpage. <!-- <h1><span class="seo">Horiseon</span></h1> -->
+
+![alt text](assets/images/highlighted.horiseon.png)
+
 Included alt attribute to images to improve accessibility functions. 
