@@ -6,7 +6,6 @@ The Horiseon Marketing Agency website was in need of a refactoring project to im
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
