@@ -30,12 +30,13 @@ https://hexd9.github.io/Module-Challenge-1/
 Collaborators:
 Learning Assist: Oscar, Ruben Ruiz
 
-
-Did some research on how to add a description to the header element to ensure accessibility standards are met (aria-label)
+I used this page as a reference for my HTML.
+https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
+Did some research on how to add a description to the header element to ensure accessibility standards are met (aria-label).
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
-I used this existing README.md to view how others create a README.md
+I used this existing README.md to view how others create a README.md and as a reference.
 https://github.com/microsoft/vscode
-I used this page as a guideline when creating my README.md
+I used this page as a guideline when creating my README.md.
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License

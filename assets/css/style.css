@@ -55,10 +55,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* added the span selector to make the Horiseon change color when hovering over the title */
-span.seo:hover {
-color: #c4fc0c;
-}
+
 
 /* Updated <div> element to <main> element and organized the css selectors to follow the semantic structure of my HTML */
 .content {
