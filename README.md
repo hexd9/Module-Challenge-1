@@ -2,7 +2,7 @@
 
 ## Description
 
-The refractoring of this project was essential for my client (Horiseon Marketing Agency) as their current webpage lacked various accessibility features. I built this project to ensure that the webpage meet all accessibility standards and in the process cleaned up the current HTML file. The HTML file has now been updated with proper semantic structure which will improve the following: accessibility for users with disabilities, ease of refractoring in the future or maintenance to the code, and search engine optimization. During the project I had the opportunity to learn how to break down an HTML file and update the file with semantic structure. Additionally, I found that organizing the css style sheet to follow the HTML's semantic structure will make it easier to maintain the webpage when updates are needed. 
+The Horiseon Marketing Agency website was in need of a refactoring project to improve its accessibility features. The goal of this project was to ensure that the website met all accessibility standards and, at the same time, had proper semantic structure in the HTML file. During the project I improved the website's accessibility for users with disabilities by adding alt attributes which described images in detail. In addition, the refactored HTML file will now make it simple to maintain the code in the future. During this project, I broke down the existing HTML file and updated it with proper semantic structure. This involved updating non-semantic HTML elements with semantic HTML elements. I also reorganized the CSS style sheet to follow the HTML's semantic structure. This will make it easier to maintain the website in the future when updates are needed. Throughout this project, I gained valuable experience in analyzing an existing an HTML file and updating it with proper semantic structure while learning from the existing code created by another developer.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ n/a
 
 ## Usage
 
-To use this webpage you can direct your attention to the navigation bar where you can  click on any of the subjects and be directed to the description of each subject. Website has been updated for search engine optimization and accessibility. 
+In order to navigate this webpage, simply access the navigation bar and click on any of the available subjects. This will direct you to a detailed description of each topic. It is worth noting that the website has been recently updated to enhance its accessibility and search engine optimization capabilities.
 
 https://hexd9.github.io/Module-Challenge-1/
 
@@ -30,8 +30,12 @@ https://hexd9.github.io/Module-Challenge-1/
 Collaborators:
 Learning Assist: Oscar, Ruben Ruiz
 
+
+Did some research on how to add a description to the header element to ensure accessibility standards are met (aria-label)
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
+I used this existing README.md to view how others create a README.md
 https://github.com/microsoft/vscode
+I used this page as a guideline when creating my README.md
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
@@ -57,31 +61,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copy license text to clipboard
-Suggest this license
-Make a pull request to suggest this license for a project that is not licensed. Please be polite: see if a license has already been suggested, try to suggest a license fitting for the project’s community, and keep your communication with project maintainers friendly.
-
-Enter GitHub repository URL
-How to apply this license
-Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
-
-Optional steps
-Add MIT to your project’s package description, if applicable (e.g., Node.js, Ruby, and Rust). This will ensure the license is displayed in package directories.
-
- Source
-Who’s using this license?
-Babel
-.NET
-Rails
 
 ## Badges
 
-https://img.shields.io/badge/module1version-hexd9version-green
+![alt text](https://img.shields.io/badge/module1version-hexd9version-green)
 
 ## Features
-
-Project includes a span element to highlight the title of the webpage. <!-- <h1><span class="seo">Horiseon</span></h1> -->
-
-![alt text](assets/images/highlighted.horiseon.png)
 
 Included alt attribute to images to improve accessibility functions. 
