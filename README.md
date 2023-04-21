@@ -11,9 +11,6 @@ The Horiseon Marketing Agency website was in need of a refactoring project to im
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-n/a
 
 ## Usage
 
